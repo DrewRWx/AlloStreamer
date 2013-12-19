@@ -1,0 +1,6 @@
+[submodule "AlloStreamer-Server"]
+	path = AlloStreamer-Server
+	url = git@github.com:DrewRWx/AlloStreamer-Server.git
+[submodule "AlloStreamer-UnityPlugin"]
+	path = AlloStreamer-UnityPlugin
+	url = git@github.com:DrewRWx/AlloStreamer-UnityPlugin.git
